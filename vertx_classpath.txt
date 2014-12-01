@@ -1,0 +1,5 @@
+src/main/resources
+bin
+out/production/crud-vertx
+out/test/crud-vertx
+build/deps

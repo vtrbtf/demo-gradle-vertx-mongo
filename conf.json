@@ -1,0 +1,11 @@
+{
+  "mongo-persistor" : {
+    "module" : "io.vertx~mod-mongo-persistor~2.1.1",
+    "address": "mongodb-persistor",
+    "host": "localhost",
+    "port": 27017,
+    "pool_size": 10,
+    "db_name": "vertx"
+  }
+
+}

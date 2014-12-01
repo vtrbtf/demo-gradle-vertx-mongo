@@ -1,0 +1,11 @@
+{
+
+  "main":"groovy:com.vtrbtf.vertx.MongoVerticle",
+
+  "description":"module description here",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Vitor Barbosa",
+  "deploys": "io.vertx~mod-mongo-persistor~2.1.1",
+
+  "auto-redeploy": true
+}
